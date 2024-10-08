@@ -30,17 +30,17 @@ This project is a face recognition attendance system built with a FastAPI backen
 
 3. **Create a Virtual Environment:**
    ```bash
-   python -m venv venv` 
+   python -m venv venv
 
 4.  **Activate the Virtual Environment:**
     
     -   On Windows:
     ```bash
-    venv\Scripts\activate` 
+    venv\Scripts\activate
     ```
     -   On macOS/Linux:
     ```bash
-    source venv/bin/activate`
+    source venv/bin/activate
     ```
     
 5.  **Install Requirements:** Create a `requirements.txt` file in the backend directory with the following content:
