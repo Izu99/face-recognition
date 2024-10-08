@@ -54,7 +54,7 @@ This project is a face recognition attendance system built with a FastAPI backen
     
     Then install the dependencies:
     ```bash
-    `pip install -r requirements.txt` 
+    pip install -r requirements.txt
     ```
     
 6.  **Run the Backend Server:**
@@ -70,20 +70,20 @@ This project is a face recognition attendance system built with a FastAPI backen
 1.  **Navigate to the Frontend Directory:**
 
     ```bash
-    `cd ../frontend` 
+    cd ../frontend
     ```
     
 2.  **Install Node.js Packages:** Ensure you have Node.js and npm installed, then run:
     
 
     ```bash
-    `npm install` 
+    npm install
     ```
     
 3.  **Run the Frontend Application:**
 
     ```bash
-    `npm start` 
+    npm start
     ```
     
     The frontend will be available at `http://localhost:3000`.
